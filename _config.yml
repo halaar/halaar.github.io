@@ -13,6 +13,8 @@ author: Aaron M. Hale
 
 navbar-links:
   About Me: "aboutme"
+  Publications:
+          - Aboutme2: "aboutme2"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
