@@ -14,9 +14,11 @@ author: Aaron M. Hale
 navbar-links:
   About Me: "aboutme"
   Teaching:
-          - Data Science Summer 2020: "Summer-2020"
+          - Data Science Summer 2020: "summer2020"
   Publications:
-          - SARS-CoV-2 Phylogeny: "SARS-CoV-2"
+          - SARS-CoV-2 Phylogeny: "corona"
+          - Orbital Mechanics Parambulator: "params"
+          - Alternative Approaches to quantum gravity: "quantum"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - CoCalc (by Sage): "https://cocalc.com/"
