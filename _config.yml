@@ -13,11 +13,14 @@ author: Aaron M. Hale
 
 navbar-links:
   About Me: "aboutme"
+  Teaching:
+          - Data Science Summer 2020: "Summer-2020"
   Publications:
-          - Aboutme2: "aboutme2"
+          - SARS-CoV-2 Phylogeny: "SARS-CoV-2"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - CoCalc (by Sage): "https://cocalc.com/"
+    - TensorFlow Playground: "https://playground.tensorflow.org/"
   Author's home: "https://www.aaronmhale.com"
 
 # --- Logo --- #
