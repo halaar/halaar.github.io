@@ -16,6 +16,7 @@ navbar-links:
   Teaching:
           - Data Science Summer 2020: "summer2020"
   Publications:
+          - COVID-19 Realtime CA: "https://github.com/halaar/COVID-19-Realtime/blob/master/2020-05-08-115028.ipynb"
           - SARS-CoV-2 Phylogeny: "corona"
           - Orbital Mechanics Parambulator: "params"
           - Alternative Approaches to quantum gravity: "quantum"
@@ -23,6 +24,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - CoCalc (by Sage): "https://cocalc.com/"
     - TensorFlow Playground: "https://playground.tensorflow.org/"
+
 
 
 # --- Logo --- #
